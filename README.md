@@ -1,6 +1,6 @@
 # NetBounder
 
-Command Line interface for NetBound
+Command Line interface for [NetBound](https://github.com/amassivus/netbound)
 
 # License
 
